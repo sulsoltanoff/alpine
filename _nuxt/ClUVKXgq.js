@@ -1,0 +1,1 @@
+import{l as n,b as t,c as o,a5 as c}from"./D3dcLX9h.js";const a={};function r(e,s){return t(),o("code",null,[c(e.$slots,"default",{},void 0,!0)])}const d=n(a,[["render",r],["__scopeId","data-v-adbe12ee"]]);export{d as default};
